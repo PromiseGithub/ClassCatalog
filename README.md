@@ -14,6 +14,8 @@ This project will be developed using VS Code. SQL will be the database, Python w
 
 ## **Useful Websites**
 GitHub link:[Promise's Github](https://github.com/PromiseGithub/ClassCatalog.git)
-Youtube link[Youtube link](link)
+Youtube link[Youtube link](https://youtu.be/A_P8zmZt7Bo)
 
 ## **Future Work**
+Join features.
+Rating average calculator
