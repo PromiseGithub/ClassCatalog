@@ -13,6 +13,7 @@ We will be working with SQL Database using SQLite. The database will contain thr
 This project will be developed using VS Code. SQL will be the database, Python will be the programming language, git and Gitgub will be used for repository, and SQLIte will be the library to interact between Python and SQL.
 
 ## **Useful Websites**
-
+GitHub link:[Promise's Github](https://github.com/PromiseGithub/ClassCatalog.git)
+Youtube link[Youtube link](link)
 
 ## **Future Work**
